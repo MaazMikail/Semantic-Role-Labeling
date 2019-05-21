@@ -29,6 +29,6 @@ def return_dict(sent):
     return dict_roles 
 
 
-    return_dict("Joe hit me with a Knife")
-    # {'ARG0': ' Joe', 'V': ' hit', 'ARG1': ' me', 'ARG2': ' with a Knife'}
+return_dict("Joe hit me with a Knife")
+# {'ARG0': ' Joe', 'V': ' hit', 'ARG1': ' me', 'ARG2': ' with a Knife'}
 
