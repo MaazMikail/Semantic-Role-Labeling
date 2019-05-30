@@ -21,7 +21,7 @@ ARG-0  —> Usually the doer of the Verb.
 
 ARG-1  —> Usually the thing/entity on which the verb was done. 
 
-ARG-2 —> Usually an intstrument used to do the work, arttribute of verb (work done) or ARG-1.
+ARG-2 —> Usually an intstrument used to do the work, arttribute of verb (work done) on ARG-1.
 
 ARG-3,ARG-4 are various modfifiers depending upon the type of sentence. E.g: These can be amounts, end-start points. 
 
